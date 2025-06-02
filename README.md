@@ -29,15 +29,37 @@
 
 ---
 
-## 🛰️ **Tech Stack Universe**
 
-<div align="center">
 
-<!-- Interactive Tech Orbit -->
-```mermaid
-pie showData
-    title Tech Stack Distribution
-    "Frontend" : 35
-    "Backend" : 30
-    "AI/ML" : 20
-    "Blockchain" : 15v
+class CosmicDeveloper:
+    def __init__(self):
+        self.name = "Your Name"
+        self.skills = {
+            'frontend': ['React', 'Flutter'],
+            'backend': ['Node', 'Django'],
+            'ai': ['LLMs', 'Computer Vision']
+        }
+    
+    def explore(self):
+        while True:
+            yield "🚀 Launching next-gen projects"
+            yield "🌌 Exploring code galaxies"
+            
+you = CosmicDeveloper()
+
+
+
+
+journey
+    title Project Timeline
+    section 2023
+    AI Research: 5: Completed
+    Web3 Platform: 3: In Progress
+    section 2024
+    Metaverse SDK: 1: Planned
+    Quantum Compiler: 2: Planned
+
+
+
+
+    
